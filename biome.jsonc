@@ -1,0 +1,21 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.0.5/schema.json",
+	"extends": ["ultracite"],
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab",
+		"indentWidth": 4
+	},
+	"javascript": {
+		"formatter": {
+			"indentStyle": "tab",
+			"indentWidth": 4
+		}
+	},
+	"json": {
+		"formatter": {
+			"indentStyle": "tab",
+			"indentWidth": 4
+		}
+	}
+}
